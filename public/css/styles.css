@@ -4,7 +4,12 @@ body, html {
     background-color: #5F9EA0;
     font-family: "Helvetica";
     color: white;
-}      
+}       
+
+iframe {  
+  width: 400; 
+  height: 255;
+ }
 
 h4 { 
   padding-bottom: 30px; 
